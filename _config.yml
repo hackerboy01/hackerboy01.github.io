@@ -7,15 +7,15 @@ kramdown:
 
 # 作者信息
 author: 
-  name: 闫肃
-  email: suyan0830@gmail.com
+  name: 彭磊
+  email: penglei0901@163.com
   link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+  weibo: http://weibo.com/penglei0901
+  github: http://github.com/hackerboy01
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
+title: 彭磊的博客 
+description: 彭磊的博客
 url: http://yansu.org
 rss_url: /pages/atom.xml
 
@@ -30,4 +30,4 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: hackerboy01
