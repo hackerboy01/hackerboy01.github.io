@@ -3,11 +3,6 @@
    @author Peiwen Lu (P233)
    https://github.com/P233/3-Ghost
 \*---------------------------------*/
-
-.center {
-  text-align: center;
-  margin: 0 auto;
-}
 /*---------------------------------*\
    Fonts
 \*---------------------------------*/
@@ -173,8 +168,6 @@ a {
       border-right: 2px solid #fafafa;
       border-top: 2px solid #fafafa;
       border-radius: 0 6px 0 0; }
-
-
 
 #tags__bottom {
   width: 100%;
