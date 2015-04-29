@@ -1,0 +1,31 @@
+---
+layout: post
+title:git命令总结
+category: 技术随笔
+keywords:  git
+---
+
+## git命令学习总结
+
+git配置(config):
+
+    git version                                                    #查看版本
+
+    git config -l                                                  #查看当前配置
+    git config --global user.name "hackerboy01"                    #设置用户名
+    git config --global user.email penglei0901@163.com             #设置邮箱
+    git config --global alias.ci commit                            #设置别名
+    git config --global alias.co checkout                          #设置别名
+
+
+
+
+
+
+
+
+
+
+
+
+
