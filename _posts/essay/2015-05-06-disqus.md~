@@ -1,0 +1,17 @@
+---
+layout: post
+title: disqus在github博客中的使用
+category: 技术随笔
+keywords: disqus,github blog
+---
+
+## **设置disqus**
+
+使用Github Page写博客，但是github Page本身并没有带有评论功能，所以需要借助disqus。
+
+### 方式一（简单版）
+
+    <div id="disqus_thread" name="hackerboy01">
+      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      <a href="http://disqus.com" class="dsq-brlink" target="_blank">Loading Disqus comments...</a>
+
