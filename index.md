@@ -26,5 +26,5 @@ title: Welcome To Hackerboy01's Blog
 
  
 ## 博客平台 
-花了半小时时间，总算把github的博客搭建成功了，从此就从CSDN搬家了[penglei0901](http://blog.csdn.net/penglei0901)。这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。
+花了半小时时间，总算把github的博客搭建成功了，从此就从CSDN[penglei0901](http://blog.csdn.net/penglei0901)搬家了。这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。
 
